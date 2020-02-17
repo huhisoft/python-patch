@@ -1,6 +1,6 @@
 Library to parse and apply unified diffs.
 
-[![Build Status](https://travis-ci.com/huhi/python-patch.svg?branch=master)](https://travis-ci.com/huhi/python-patch)
+[![Build Status](https://travis-ci.com/huhisoft/python-patch.svg?branch=master)](https://travis-ci.com/huhisoft/python-patch)
 
 ### Features
 
